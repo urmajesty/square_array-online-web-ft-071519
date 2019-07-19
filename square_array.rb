@@ -4,5 +4,5 @@ array.each do |numbers|
   new_array([numbers ** 2])
 
 end
-new
+new_array
 end
