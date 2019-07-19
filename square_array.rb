@@ -3,5 +3,4 @@ array.each do |numbers|
   array([numbers ** 2])
 
 end
-array
 end
